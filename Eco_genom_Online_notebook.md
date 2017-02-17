@@ -8,7 +8,7 @@
 fill in your description here!
 
 
-## Date started: (year-month-day)   
+## Date started: (2017-01-18)   
 ## Date end:   (year-month-day)    
 
 ## Philosophy   
@@ -46,7 +46,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 * [Page 12:](#id-section12).
 * [Page 13:](#id-section13).
 * [Page 14:](#id-section14).
-* [Page 15:](#id-section15).
+* [Page 15:](#id-section15). 2017-02-17. Meeting with Andrew
 * [Page 16:](#id-section16).
 * [Page 17:](#id-section17).
 * [Page 18:](#id-section18).
@@ -203,7 +203,17 @@ Melissa has a data set with 96 sea stars and then the 16s microbiome. Would be c
 ### Page 14:
 ------
 <div id='id-section15'/>
-### Page 15:
+### Page 15: 
+
+Meeting with Andrew:
+
+1. Using of GitHub 
+   1. Now can right click and view in GitHub
+   2. Moved template into EcologicalGenomics 
+2. Using Typora,  downloaded and installed
+3. Made edits to Lab notebook
+4. Added notes for today
+
 ------
 <div id='id-section16'/>
 ### Page 16:
