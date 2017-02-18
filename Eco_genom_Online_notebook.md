@@ -1,4 +1,4 @@
-# Project title    
+# **Project** title    
 
 ### Author: C. William Kilpatrick     
 ### Ecological Genomics:   
@@ -45,7 +45,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 * [Page 11:](#id-section11).
 * [Page 12:](#id-section12).
 * [Page 13:](#id-section13).
-* [Page 14:](#id-section14).
+* [Page 14:](#id-section14). 2017-02-16. Class; Notes: Lab Notebook; SAM files
 * [Page 15:](#id-section15). 2017-02-17. Meeting with Andrew
 * [Page 16:](#id-section16).
 * [Page 17:](#id-section17).
@@ -201,6 +201,21 @@ Melissa has a data set with 96 sea stars and then the 16s microbiome. Would be c
 ------
 <div id='id-section14'/>
 ### Page 14:
+
+Class 2017-2-16
+
+1. Notes on Lab Notebooks:
+   1. Need Typora & Notebook Template
+   2. Open Template in Typora
+      1. Edit (in markdown) - can use Ctrl/ to switch to code
+      2. Save
+   3. Go to GitHub repository
+      1. Open file
+      2. Commit to master
+      3. Sync
+   4. Check on-line
+2. Notes on SAM files
+
 ------
 <div id='id-section15'/>
 ### Page 15: 
