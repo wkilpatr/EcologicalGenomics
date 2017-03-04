@@ -1,4 +1,4 @@
-# Project** title    
+# Ecological Genomics Lab Notebook    
 
 ### Author: C. William Kilpatrick     
 ### Ecological Genomics:   
@@ -276,13 +276,13 @@ Outline of paper:
 	 7. Script to modify sam files [sed-i's/::/\_/g']
 	 8. Python script - countxpression.py
 	 9. Examine differential gene expression with DSSeq2
-
+	
 	Results (3-5 sentences)
-
+	
 	Tables and Figures
-
+	
 	Interpretation (3-5 sentences)
-
+	
 	Critical thinking (2-3 sentences)  What would you do differently?  What would you do next?
 ------
 <div id='id-'/>
