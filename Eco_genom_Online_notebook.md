@@ -1,4 +1,4 @@
-# **Project** title    
+# Project** title    
 
 ### Author: C. William Kilpatrick     
 ### Ecological Genomics:   
@@ -264,6 +264,18 @@ Outline of paper:
 	Conceptional background - what analysis does (2-3 sentences)
 
 	Verbal description of the mechanics of pipeline (3-4 sentences)
+	1. Generate RNAseq data - 77 individuals
+	2. Examine quality of data with fastqc
+	3. Clean files with Trimmomatic
+	4. Examine quality of data with fastqc
+	5. Denova assemly with Trinity - 4 individuals (H & S) over 200 million reads [TransDecoder to    
+	   predict ORF] What does bowtie2 do?
+	6. Map reads to assemblage [bwaaln.sh; edit in vim] - makes sam files
+	   a. Extract read counts
+	   b. Assemble read counts into Table
+	 7. Script to modify sam files [sed-i's/::/\_/g']
+	 8. Python script - countxpression.py
+	 9. Examine differential gene expression with DSSeq2
 
 	Results (3-5 sentences)
 
@@ -272,7 +284,6 @@ Outline of paper:
 	Interpretation (3-5 sentences)
 
 	Critical thinking (2-3 sentences)  What would you do differently?  What would you do next?
-
 ------
 <div id='id-'/>
 ### Page 23:
