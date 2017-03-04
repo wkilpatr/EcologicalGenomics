@@ -53,7 +53,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 * [Page 19:](#id-section19).
 * [Page 20:](#id-section20).
 * [Page 21:](#id-section21).
-* [Page 22:](#id-section22).
+* [Page 22:](#id-section22).2017-03-04. Notes Assignment 2
 * [Page 23:](#id-section23).
 * [Page 24:](#id-section24).
 * [Page 25:](#id-section25).
@@ -249,9 +249,32 @@ Meeting with Andrew:
 ### Page 21:
 ------
 <div id='id-section22'/>
-### Page 22:
+### Page 22:Assignment 2: RNA-seq for Gene Expression Analysis
+
+Objectives:
+
+1. Contrast differential gene expression in healthy (H) and sick (S) sea stars separately within subtidal (SUB) and intertidal (INT) localities. 
+2. Compare results obtained (1) to those obtained by running location in the model as a control variable.
+   Note: Examine degree to which two approaches converge and overall with regards to the number of significantly differentially expressed genes (up and down).
+
+Outline of paper:
+
+	Objective
+
+	Conceptional background - what analysis does (2-3 sentences)
+
+	Verbal description of the mechanics of pipeline (3-4 sentences)
+
+	Results (3-5 sentences)
+
+	Tables and Figures
+
+	Interpretation (3-5 sentences)
+
+	Critical thinking (2-3 sentences)  What would you do differently?  What would you do next?
+
 ------
-<div id='id-section23'/>
+<div id='id-'/>
 ### Page 23:
 ------
 <div id='id-section24'/>
