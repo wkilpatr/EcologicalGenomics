@@ -54,7 +54,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 * [Page 20:](#id-section20).
 * [Page 21:](#id-section21).
 * [Page 22:](#id-section22).2017-03-04. Notes Assignment 2
-* [Page 23:](#id-section23).
+* [Page 23:](#id-section23).2017-03-04. Notes on Variant Call Format
 * [Page 24:](#id-section24).
 * [Page 25:](#id-section25).
 * [Page 26:](#id-section26).
@@ -287,6 +287,40 @@ Outline of paper:
 ------
 <div id='id-'/>
 ### Page 23:
+
+Notes on Variant Call Format (VCF) and using vcftools
+
+Class data set: 77 transcriptone files from 24 individuals
+
+​	samtool vs reads2snps
+
+1.   sam files allignments from the same individuals now merged - gives deeper coverage
+
+     "samtools" - merge files
+
+2.   Call snps from each of the replicates and then compare - shallower coverage, better quality of calls (MRC)?
+
+Using vcftools:
+
+1. On server to access type vcftools
+2. File: SSW_bamlist.txt.vcf
+3. $vcftools    --vcf filename.vcf 
+   1. vim file name
+   2. :set nowrap
+4. grep 'unres' SSW_bamlist.txt.vcf
+
+
+
+
+
+Look at vcf manual - looks straight forward
+
+Hardy-Weinberg
+
+Type R to go to R and q() to quit R
+
+hardy <-readtable ("out.hwe", header=T)
+
 ------
 <div id='id-section24'/>
 ### Page 24:
